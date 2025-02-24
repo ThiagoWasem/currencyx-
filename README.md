@@ -30,18 +30,18 @@ CurrencyX é um conversor de moedas simples e eficiente que permite converter va
 git clone https://github.com/seuusuario/currencyx.git
 ```
 
-##2️⃣ Acesse a pasta do projeto
+## 2️⃣ Acesse a pasta do projeto
 sh
 Copiar
 Editar
 cd currencyx
 
-##3️⃣ Abra o arquivo index.html no navegador
+## 3️⃣ Abra o arquivo index.html no navegador
 🔑 Como Obter a API Key
 Acesse ExchangeRate-API
 Crie uma conta gratuita e obtenha sua chave de API
 
-##🤝 Contribuição
+## 🤝 Contribuição
 Quer melhorar o CurrencyX? Siga os passos:
 
 Faça um fork deste repositório
@@ -49,7 +49,7 @@ Crie uma branch (git checkout -b minha-feature)
 Faça suas melhorias e commit (git commit -m "Nova funcionalidade")
 Envie um pull request
 
-##📄 Licença
+## 📄 Licença
 Este projeto está sob a MIT License – sinta-se livre para usá-lo e modificá-lo! 🚀
 
 📩 Contato
@@ -57,4 +57,4 @@ Este projeto está sob a MIT License – sinta-se livre para usá-lo e modificá
 📧 SeuEmail@email.com
 🔗 LinkedIn
 
-##⭐ Se gostou do projeto, deixe uma estrela no repositório!
+## ⭐ Se gostou do projeto, deixe uma estrela no repositório!
