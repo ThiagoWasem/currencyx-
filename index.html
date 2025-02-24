@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CurrencyX</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>CurrencyX - Conversor de Moedas</h1>
+      <div class="converter">
+        <div class="input-group">
+          <label for="fromCurrency">De:</label>
+          <select id="fromCurrency"></select>
+          <input type="number" id="amount" placeholder="Valor" min="0">
+        </div>
+
+        <div class="input-group">
+          <label for="toCurrency">Para:</label>
+          <select id="toCurrency"></select>
+          <input type="text" id="result" placeholder="Resultado" disabled>
+        </div>
+
+        <button id="convertButton">Converter</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
