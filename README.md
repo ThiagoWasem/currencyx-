@@ -26,8 +26,9 @@ CurrencyX é um conversor de moedas simples e eficiente que permite converter va
 ## 📌 Como Rodar o Projeto
 
 ### 1️⃣ Clone este repositório
-```sh
+```
 git clone https://github.com/seuusuario/currencyx.git
+```
 
 2️⃣ Acesse a pasta do projeto
 sh
